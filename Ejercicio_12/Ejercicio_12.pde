@@ -21,8 +21,7 @@ void draw() {
       textSize(50);
       fill(0, 400, 590);
       text("Saludos "+nombre+ "Bienvenido a Processing",300,100);
-     }
-  
+     }  
 }
 
 void keyPressed(){   
@@ -30,7 +29,6 @@ void keyPressed(){
      if (key == '\n'){
        println("Saludos "+nombre+ "Bienvenido a Processing");
      }
-
    }
 
    
