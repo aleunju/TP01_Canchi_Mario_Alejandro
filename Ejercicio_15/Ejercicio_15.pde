@@ -1,0 +1,10 @@
+int a=100;
+int b=50;
+int suma = a + b;
+int resta = a - b;
+int multiplicacion = a * b;
+float division = a / b;
+println("El resultado de la suma es: " + suma);
+println("El resultado de la resta es: " + resta);
+println("El resultado de la multiplicación es: " + multiplicacion);
+println("El resultado de la división es: " + division);
